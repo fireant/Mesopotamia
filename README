@@ -1,0 +1,6 @@
+To evaluate the performance of image matching algorithms (for location
+recognition), I needed to collect a large set of geo-tagged images.
+As a quick solution for collecting large datasets I used an Acer Aspire One
+with UNR installed on it, gpsd 2.92, SQLite, a PS3 Eye camera, and a
+Holux m-241 (USB GPS). This is the code, not very well designed but it does
+the job.
